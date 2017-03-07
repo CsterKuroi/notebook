@@ -8,3 +8,5 @@ adminMongo
 Mongo shell
 
 rethinkdb changes https://github.com/bigchaindb/bigchaindb/issues/1192
+
+changfeed --> select
