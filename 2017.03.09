@@ -1,2 +1,2 @@
-log exception
-config .unichain({})
+logger_config
+argument_config
