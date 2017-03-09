@@ -1,3 +1,4 @@
+#2017.03.06
 Blockchain
 
 Bigchaindb
@@ -21,3 +22,17 @@ monitor:graphite/grafana collected statsd
 flask
 
 django
+
+#2017.03.07
+bigchaindb load https://github.com/bigchaindb/bigchaindb/issues/1255
+
+bigchaindb-rethinkdb
+bigchaindb-Mongodb
+
+adminMongo
+
+Mongo shell
+
+rethinkdb changes https://github.com/bigchaindb/bigchaindb/issues/1192
+
+changfeed --> select
